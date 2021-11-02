@@ -7,13 +7,13 @@ public class Medications {
         public void sayName() {
             System.out.println(name);
         }
-    public void sayPrice() {
+        public void sayPrice() {
         System.out.println(price);
-    }
-    public void sayProd() {
+        }
+        public void sayProd() {
         System.out.println(prod);
-    }
-    public void incrementPrice() {
+        }
+        public void incrementPrice() {
             price = price + 10;
     }
 
